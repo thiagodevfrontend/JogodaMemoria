@@ -1,0 +1,23 @@
+body {
+
+    font-family: sans-serif;
+    text-align: center;
+}
+
+#tabuleiro {
+
+    height: 532px;
+    width: 475px;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: #0000ff;
+    border: 10px solid #808080;
+}
+
+.carta {
+
+    height: 128px;
+    width: 90px;
+    margin:2.5px;
+}
